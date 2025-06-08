@@ -35,6 +35,7 @@ global.wm = "𝘼𝙧𝙞𝘽𝙤𝙩.🌱";
 global.author = "𝘼𝙧𝙞𝘽𝙤𝙩.🌱"
 global.link = 'https://chat.whatsapp.com/';
 global.logo = 'https://files.catbox.moe/amr0g5.jpeg'; 
+global.botName = "𝘼𝙧𝙞𝘽𝙤𝙩.🌱";
 
 global.wait = "\`Cargando . . . Espera un momento.\`"
 global.rwait = '⌛'
